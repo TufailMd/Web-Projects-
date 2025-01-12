@@ -1,0 +1,70 @@
+.navbar a{
+    font-size: x-large;   
+}
+
+.navbar-brand {
+    color: #FFFF00;
+    font-weight: bolder;
+}
+
+.nav-link {
+    font-weight: bolder;
+}
+
+.navbar-brand:hover{
+    color: #FFFF00;
+    text-shadow: rgb(255, 255, 255) 1px 0 10px;
+}
+.about p{
+    line-height: 0.5;
+}
+
+.project p{
+    text-align: left;
+} 
+.project img{
+    width: 20rem;
+}
+
+.foot{
+    background-color: black;
+    height: 6vh;
+}
+.foot h5{
+    text-align: center;
+    color: yellow;
+}
+
+.item1{
+    display: flex;
+}
+
+.desc{
+    width: 50%;
+    align-content: center;
+    margin: auto;
+}
+.btn-group{
+    width: 500px;
+}
+ a{
+    text-decoration: none;
+    color: white;
+ }
+
+
+ /* About */
+ .coding{
+    display: flex;
+    margin-top: 33px;
+    margin-bottom: 33px;
+
+ }
+ .title{
+    width: 210px;
+ }
+ .coding-desc{
+    width: 90%;
+    margin: 0px 20px 0px 80px;
+ }
+
